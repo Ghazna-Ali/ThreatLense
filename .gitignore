@@ -1,0 +1,5 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local secrets file
+secrets.toml.example
